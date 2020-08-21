@@ -1,4 +1,6 @@
 # GameHub
+![GameHub logo](https://raw.githubusercontent.com/NoroffFEU/first-year-cross-course-assignment-brief-three/master/GameHub_Logo.png)
+
 GameHub is an online shop where users can purchase computer games. Games could either be used games, they could be brand new games or a user could pre-order games.
 
 GameHub is a competitively priced website with a huge range of games.
