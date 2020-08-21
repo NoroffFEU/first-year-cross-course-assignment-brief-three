@@ -26,4 +26,5 @@ GameHub allows you to pre-order games, get your latest games here first.
 - Account page
 - Checkout page
 - Checkout success
+- Contact
 
