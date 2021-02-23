@@ -22,7 +22,7 @@ GameHub allows you to pre-order games, get your latest games here first.
 ### Site architecture
 
 - Home
-- Search results page.
+- List of games / Search results page (if the user hasn't searched they should see all games, and if they have the games will be filtered by their search)
 - Game page (where a user can see specific details about a game they've clicked on from the results page, and can add to cart from there)
 - Create account page (User should be able to sell a new game and a user should be able to purchase a game)
 - Account page
